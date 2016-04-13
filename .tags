@@ -1,0 +1,531 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+init	/var/www/html/gits/colorpicker/js/jquery.js	/^	init: function( selector, context ) {$/;"	function	line:36
+size	/var/www/html/gits/colorpicker/js/jquery.js	/^	size: function() {$/;"	function	line:103
+get	/var/www/html/gits/colorpicker/js/jquery.js	/^	get: function( num ) {$/;"	function	line:109
+pushStack	/var/www/html/gits/colorpicker/js/jquery.js	/^	pushStack: function( elems, name, selector ) {$/;"	function	line:121
+setArray	/var/www/html/gits/colorpicker/js/jquery.js	/^	setArray: function( elems ) {$/;"	function	line:142
+Array	/var/www/html/gits/colorpicker/js/jquery.js	/^		this.length = 0;$/;"	class	line:145
+Array.push	/var/www/html/gits/colorpicker/js/jquery.js	/^		Array.prototype.push.apply( this, elems );$/;"	method	line:146
+each	/var/www/html/gits/colorpicker/js/jquery.js	/^	each: function( callback, args ) {$/;"	function	line:154
+index	/var/www/html/gits/colorpicker/js/jquery.js	/^	index: function( elem ) {$/;"	function	line:160
+attr	/var/www/html/gits/colorpicker/js/jquery.js	/^	attr: function( name, value, type ) {$/;"	function	line:168
+css	/var/www/html/gits/colorpicker/js/jquery.js	/^	css: function( key, value ) {$/;"	function	line:194
+text	/var/www/html/gits/colorpicker/js/jquery.js	/^	text: function( text ) {$/;"	function	line:201
+ret	/var/www/html/gits/colorpicker/js/jquery.js	/^		var ret = "";$/;"	variable	line:205
+wrapAll	/var/www/html/gits/colorpicker/js/jquery.js	/^	wrapAll: function( html ) {$/;"	function	line:219
+wrapInner	/var/www/html/gits/colorpicker/js/jquery.js	/^	wrapInner: function( html ) {$/;"	function	line:240
+wrap	/var/www/html/gits/colorpicker/js/jquery.js	/^	wrap: function( html ) {$/;"	function	line:246
+append	/var/www/html/gits/colorpicker/js/jquery.js	/^	append: function() {$/;"	function	line:252
+prepend	/var/www/html/gits/colorpicker/js/jquery.js	/^	prepend: function() {$/;"	function	line:259
+before	/var/www/html/gits/colorpicker/js/jquery.js	/^	before: function() {$/;"	function	line:266
+after	/var/www/html/gits/colorpicker/js/jquery.js	/^	after: function() {$/;"	function	line:272
+end	/var/www/html/gits/colorpicker/js/jquery.js	/^	end: function() {$/;"	function	line:278
+find	/var/www/html/gits/colorpicker/js/jquery.js	/^	find: function( selector ) {$/;"	function	line:288
+clone	/var/www/html/gits/colorpicker/js/jquery.js	/^	clone: function( events ) {$/;"	function	line:301
+filter	/var/www/html/gits/colorpicker/js/jquery.js	/^	filter: function( selector ) {$/;"	function	line:349
+closest	/var/www/html/gits/colorpicker/js/jquery.js	/^	closest: function( selector ) {$/;"	function	line:361
+not	/var/www/html/gits/colorpicker/js/jquery.js	/^	not: function( selector ) {$/;"	function	line:378
+add	/var/www/html/gits/colorpicker/js/jquery.js	/^	add: function( selector ) {$/;"	function	line:392
+is	/var/www/html/gits/colorpicker/js/jquery.js	/^	is: function( selector ) {$/;"	function	line:401
+hasClass	/var/www/html/gits/colorpicker/js/jquery.js	/^	hasClass: function( selector ) {$/;"	function	line:405
+val	/var/www/html/gits/colorpicker/js/jquery.js	/^	val: function( value ) {$/;"	function	line:409
+html	/var/www/html/gits/colorpicker/js/jquery.js	/^	html: function( value ) {$/;"	function	line:483
+replaceWith	/var/www/html/gits/colorpicker/js/jquery.js	/^	replaceWith: function( value ) {$/;"	function	line:491
+eq	/var/www/html/gits/colorpicker/js/jquery.js	/^	eq: function( i ) {$/;"	function	line:495
+slice	/var/www/html/gits/colorpicker/js/jquery.js	/^	slice: function() {$/;"	function	line:499
+map	/var/www/html/gits/colorpicker/js/jquery.js	/^	map: function( callback ) {$/;"	function	line:504
+andSelf	/var/www/html/gits/colorpicker/js/jquery.js	/^	andSelf: function() {$/;"	function	line:510
+domManip	/var/www/html/gits/colorpicker/js/jquery.js	/^	domManip: function( args, table, callback ) {$/;"	function	line:514
+root	/var/www/html/gits/colorpicker/js/jquery.js	/^		function root( elem, cur ) {$/;"	function	line:531
+root	/var/www/html/gits/colorpicker/js/jquery.js	/^		function root( elem, cur ) {$/;"	function	line:531
+jQuery.fn.init	/var/www/html/gits/colorpicker/js/jquery.js	/^};$/;"	class	line:538
+evalScript	/var/www/html/gits/colorpicker/js/jquery.js	/^function evalScript( i, elem ) {$/;"	function	line:543
+evalScript	/var/www/html/gits/colorpicker/js/jquery.js	/^function evalScript( i, elem ) {$/;"	function	line:543
+now	/var/www/html/gits/colorpicker/js/jquery.js	/^function now(){$/;"	function	line:558
+now	/var/www/html/gits/colorpicker/js/jquery.js	/^function now(){$/;"	function	line:558
+noConflict	/var/www/html/gits/colorpicker/js/jquery.js	/^	noConflict: function( deep ) {$/;"	function	line:619
+isFunction	/var/www/html/gits/colorpicker/js/jquery.js	/^	isFunction: function( obj ) {$/;"	function	line:631
+isArray	/var/www/html/gits/colorpicker/js/jquery.js	/^	isArray: function( obj ) {$/;"	function	line:635
+isXMLDoc	/var/www/html/gits/colorpicker/js/jquery.js	/^	isXMLDoc: function( elem ) {$/;"	function	line:640
+globalEval	/var/www/html/gits/colorpicker/js/jquery.js	/^	globalEval: function( data ) {$/;"	function	line:646
+nodeName	/var/www/html/gits/colorpicker/js/jquery.js	/^	nodeName: function( elem, name ) {$/;"	function	line:666
+each	/var/www/html/gits/colorpicker/js/jquery.js	/^	each: function( object, callback, args ) {$/;"	function	line:671
+prop	/var/www/html/gits/colorpicker/js/jquery.js	/^	prop: function( elem, value, type, i, name ) {$/;"	function	line:698
+add	/var/www/html/gits/colorpicker/js/jquery.js	/^		add: function( elem, classNames ) {$/;"	function	line:711
+remove	/var/www/html/gits/colorpicker/js/jquery.js	/^		remove: function( elem, classNames ) {$/;"	function	line:719
+has	/var/www/html/gits/colorpicker/js/jquery.js	/^		has: function( elem, className ) {$/;"	function	line:729
+swap	/var/www/html/gits/colorpicker/js/jquery.js	/^	swap: function( elem, options, callback ) {$/;"	function	line:735
+css	/var/www/html/gits/colorpicker/js/jquery.js	/^	css: function( elem, name, force, extra ) {$/;"	function	line:750
+getWH	/var/www/html/gits/colorpicker/js/jquery.js	/^			function getWH() {$/;"	function	line:754
+curCSS	/var/www/html/gits/colorpicker/js/jquery.js	/^	curCSS: function( elem, name, force ) {$/;"	function	line:781
+clean	/var/www/html/gits/colorpicker/js/jquery.js	/^	clean: function( elems, context, fragment ) {$/;"	function	line:847
+attr	/var/www/html/gits/colorpicker/js/jquery.js	/^	attr: function( elem, name, value ) {$/;"	function	line:967
+trim	/var/www/html/gits/colorpicker/js/jquery.js	/^	trim: function( text ) {$/;"	function	line:1066
+makeArray	/var/www/html/gits/colorpicker/js/jquery.js	/^	makeArray: function( array ) {$/;"	function	line:1070
+inArray	/var/www/html/gits/colorpicker/js/jquery.js	/^	inArray: function( elem, array ) {$/;"	function	line:1086
+merge	/var/www/html/gits/colorpicker/js/jquery.js	/^	merge: function( first, second ) {$/;"	function	line:1095
+unique	/var/www/html/gits/colorpicker/js/jquery.js	/^	unique: function( array ) {$/;"	function	line:1113
+grep	/var/www/html/gits/colorpicker/js/jquery.js	/^	grep: function( elems, callback, inv ) {$/;"	function	line:1134
+map	/var/www/html/gits/colorpicker/js/jquery.js	/^	map: function( elems, callback ) {$/;"	function	line:1146
+userAgent	/var/www/html/gits/colorpicker/js/jquery.js	/^var userAgent = navigator.userAgent.toLowerCase();$/;"	variable	line:1166
+jQuery.browser.version	/var/www/html/gits/colorpicker/js/jquery.js	/^jQuery.browser = {$/;"	property	line:1169
+parent	/var/www/html/gits/colorpicker/js/jquery.js	/^	parent: function(elem){return elem.parentNode;},$/;"	function	line:1178
+parents	/var/www/html/gits/colorpicker/js/jquery.js	/^	parents: function(elem){return jQuery.dir(elem,"parentNode");},$/;"	function	line:1179
+next	/var/www/html/gits/colorpicker/js/jquery.js	/^	next: function(elem){return jQuery.nth(elem,2,"nextSibling");},$/;"	function	line:1180
+prev	/var/www/html/gits/colorpicker/js/jquery.js	/^	prev: function(elem){return jQuery.nth(elem,2,"previousSibling");},$/;"	function	line:1181
+nextAll	/var/www/html/gits/colorpicker/js/jquery.js	/^	nextAll: function(elem){return jQuery.dir(elem,"nextSibling");},$/;"	function	line:1182
+prevAll	/var/www/html/gits/colorpicker/js/jquery.js	/^	prevAll: function(elem){return jQuery.dir(elem,"previousSibling");},$/;"	function	line:1183
+siblings	/var/www/html/gits/colorpicker/js/jquery.js	/^	siblings: function(elem){return jQuery.sibling(elem.parentNode.firstChild,elem);},$/;"	function	line:1184
+children	/var/www/html/gits/colorpicker/js/jquery.js	/^	children: function(elem){return jQuery.sibling(elem.firstChild);},$/;"	function	line:1185
+contents	/var/www/html/gits/colorpicker/js/jquery.js	/^	contents: function(elem){return jQuery.nodeName(elem,"iframe")?elem.contentDocument||elem.contentWindow.document:jQuery.makeArray(elem.childNodes);}$/;"	function	line:1186
+removeAttr	/var/www/html/gits/colorpicker/js/jquery.js	/^	removeAttr: function( name ) {$/;"	function	line:1219
+addClass	/var/www/html/gits/colorpicker/js/jquery.js	/^	addClass: function( classNames ) {$/;"	function	line:1225
+removeClass	/var/www/html/gits/colorpicker/js/jquery.js	/^	removeClass: function( classNames ) {$/;"	function	line:1229
+toggleClass	/var/www/html/gits/colorpicker/js/jquery.js	/^	toggleClass: function( classNames, state ) {$/;"	function	line:1233
+remove	/var/www/html/gits/colorpicker/js/jquery.js	/^	remove: function( selector ) {$/;"	function	line:1239
+empty	/var/www/html/gits/colorpicker/js/jquery.js	/^	empty: function() {$/;"	function	line:1251
+num	/var/www/html/gits/colorpicker/js/jquery.js	/^function num(elem, prop) {$/;"	function	line:1266
+num	/var/www/html/gits/colorpicker/js/jquery.js	/^function num(elem, prop) {$/;"	function	line:1266
+data	/var/www/html/gits/colorpicker/js/jquery.js	/^	data: function( elem, name, data ) {$/;"	function	line:1274
+removeData	/var/www/html/gits/colorpicker/js/jquery.js	/^	removeData: function( elem, name ) {$/;"	function	line:1300
+queue	/var/www/html/gits/colorpicker/js/jquery.js	/^	queue: function( elem, type, data ) {$/;"	function	line:1339
+dequeue	/var/www/html/gits/colorpicker/js/jquery.js	/^	dequeue: function( elem, type ){$/;"	function	line:1355
+data	/var/www/html/gits/colorpicker/js/jquery.js	/^	data: function( key, value ){$/;"	function	line:1368
+removeData	/var/www/html/gits/colorpicker/js/jquery.js	/^	removeData: function( key ){$/;"	function	line:1387
+queue	/var/www/html/gits/colorpicker/js/jquery.js	/^	queue: function(type, data){$/;"	function	line:1392
+dequeue	/var/www/html/gits/colorpicker/js/jquery.js	/^	dequeue: function(type){$/;"	function	line:1408
+Sizzle	/var/www/html/gits/colorpicker/js/jquery.js	/^var Sizzle = function(selector, context, results, seed) {$/;"	function	line:1425
+matches	/var/www/html/gits/colorpicker/js/jquery.js	/^Sizzle.matches = function(expr, set){$/;"	function	line:1544
+find	/var/www/html/gits/colorpicker/js/jquery.js	/^Sizzle.find = function(expr, context, isXML){$/;"	function	line:1548
+filter	/var/www/html/gits/colorpicker/js/jquery.js	/^Sizzle.filter = function(expr, set, inplace, not){$/;"	function	line:1579
+href	/var/www/html/gits/colorpicker/js/jquery.js	/^		href: function(elem){$/;"	function	line:1671
+ID	/var/www/html/gits/colorpicker/js/jquery.js	/^		ID: function(match, context, isXML){$/;"	function	line:1749
+NAME	/var/www/html/gits/colorpicker/js/jquery.js	/^		NAME: function(match, context, isXML){$/;"	function	line:1755
+TAG	/var/www/html/gits/colorpicker/js/jquery.js	/^		TAG: function(match, context){$/;"	function	line:1768
+CLASS	/var/www/html/gits/colorpicker/js/jquery.js	/^		CLASS: function(match, curLoop, inplace, result, not, isXML){$/;"	function	line:1773
+ID	/var/www/html/gits/colorpicker/js/jquery.js	/^		ID: function(match){$/;"	function	line:1793
+TAG	/var/www/html/gits/colorpicker/js/jquery.js	/^		TAG: function(match, curLoop){$/;"	function	line:1796
+CHILD	/var/www/html/gits/colorpicker/js/jquery.js	/^		CHILD: function(match){$/;"	function	line:1800
+ATTR	/var/www/html/gits/colorpicker/js/jquery.js	/^		ATTR: function(match, curLoop, inplace, result, not, isXML){$/;"	function	line:1817
+PSEUDO	/var/www/html/gits/colorpicker/js/jquery.js	/^		PSEUDO: function(match, curLoop, inplace, result, not){$/;"	function	line:1830
+POS	/var/www/html/gits/colorpicker/js/jquery.js	/^		POS: function(match){$/;"	function	line:1848
+enabled	/var/www/html/gits/colorpicker/js/jquery.js	/^		enabled: function(elem){$/;"	function	line:1854
+disabled	/var/www/html/gits/colorpicker/js/jquery.js	/^		disabled: function(elem){$/;"	function	line:1857
+checked	/var/www/html/gits/colorpicker/js/jquery.js	/^		checked: function(elem){$/;"	function	line:1860
+selected	/var/www/html/gits/colorpicker/js/jquery.js	/^		selected: function(elem){$/;"	function	line:1863
+parent	/var/www/html/gits/colorpicker/js/jquery.js	/^		parent: function(elem){$/;"	function	line:1869
+empty	/var/www/html/gits/colorpicker/js/jquery.js	/^		empty: function(elem){$/;"	function	line:1872
+has	/var/www/html/gits/colorpicker/js/jquery.js	/^		has: function(elem, i, match){$/;"	function	line:1875
+header	/var/www/html/gits/colorpicker/js/jquery.js	/^		header: function(elem){$/;"	function	line:1878
+text	/var/www/html/gits/colorpicker/js/jquery.js	/^		text: function(elem){$/;"	function	line:1881
+radio	/var/www/html/gits/colorpicker/js/jquery.js	/^		radio: function(elem){$/;"	function	line:1884
+checkbox	/var/www/html/gits/colorpicker/js/jquery.js	/^		checkbox: function(elem){$/;"	function	line:1887
+file	/var/www/html/gits/colorpicker/js/jquery.js	/^		file: function(elem){$/;"	function	line:1890
+password	/var/www/html/gits/colorpicker/js/jquery.js	/^		password: function(elem){$/;"	function	line:1893
+submit	/var/www/html/gits/colorpicker/js/jquery.js	/^		submit: function(elem){$/;"	function	line:1896
+image	/var/www/html/gits/colorpicker/js/jquery.js	/^		image: function(elem){$/;"	function	line:1899
+reset	/var/www/html/gits/colorpicker/js/jquery.js	/^		reset: function(elem){$/;"	function	line:1902
+button	/var/www/html/gits/colorpicker/js/jquery.js	/^		button: function(elem){$/;"	function	line:1905
+input	/var/www/html/gits/colorpicker/js/jquery.js	/^		input: function(elem){$/;"	function	line:1908
+first	/var/www/html/gits/colorpicker/js/jquery.js	/^		first: function(elem, i){$/;"	function	line:1913
+last	/var/www/html/gits/colorpicker/js/jquery.js	/^		last: function(elem, i, match, array){$/;"	function	line:1916
+even	/var/www/html/gits/colorpicker/js/jquery.js	/^		even: function(elem, i){$/;"	function	line:1919
+odd	/var/www/html/gits/colorpicker/js/jquery.js	/^		odd: function(elem, i){$/;"	function	line:1922
+lt	/var/www/html/gits/colorpicker/js/jquery.js	/^		lt: function(elem, i, match){$/;"	function	line:1925
+gt	/var/www/html/gits/colorpicker/js/jquery.js	/^		gt: function(elem, i, match){$/;"	function	line:1928
+nth	/var/www/html/gits/colorpicker/js/jquery.js	/^		nth: function(elem, i, match){$/;"	function	line:1931
+eq	/var/www/html/gits/colorpicker/js/jquery.js	/^		eq: function(elem, i, match){$/;"	function	line:1934
+PSEUDO	/var/www/html/gits/colorpicker/js/jquery.js	/^		PSEUDO: function(elem, match, i, array){$/;"	function	line:1939
+CHILD	/var/www/html/gits/colorpicker/js/jquery.js	/^		CHILD: function(elem, match){$/;"	function	line:1958
+switch	/var/www/html/gits/colorpicker/js/jquery.js	/^			switch (type) {$/;"	function	line:1960
+ID	/var/www/html/gits/colorpicker/js/jquery.js	/^		ID: function(elem, match){$/;"	function	line:2001
+TAG	/var/www/html/gits/colorpicker/js/jquery.js	/^		TAG: function(elem, match){$/;"	function	line:2004
+CLASS	/var/www/html/gits/colorpicker/js/jquery.js	/^		CLASS: function(elem, match){$/;"	function	line:2007
+ATTR	/var/www/html/gits/colorpicker/js/jquery.js	/^		ATTR: function(elem, match){$/;"	function	line:2011
+POS	/var/www/html/gits/colorpicker/js/jquery.js	/^		POS: function(elem, match, i, array){$/;"	function	line:2042
+makeArray	/var/www/html/gits/colorpicker/js/jquery.js	/^var makeArray = function(array, results) {$/;"	function	line:2058
+makeArray	/var/www/html/gits/colorpicker/js/jquery.js	/^	makeArray = function(array, results) {$/;"	function	line:2076
+sortOrder	/var/www/html/gits/colorpicker/js/jquery.js	/^	sortOrder = function( a, b ) {$/;"	function	line:2100
+sortOrder	/var/www/html/gits/colorpicker/js/jquery.js	/^	sortOrder = function( a, b ) {$/;"	function	line:2108
+sortOrder	/var/www/html/gits/colorpicker/js/jquery.js	/^	sortOrder = function( a, b ) {$/;"	function	line:2116
+ID	/var/www/html/gits/colorpicker/js/jquery.js	/^		Expr.find.ID = function(match, context, isXML){$/;"	function	line:2145
+ID	/var/www/html/gits/colorpicker/js/jquery.js	/^		Expr.filter.ID = function(elem, match){$/;"	function	line:2152
+TAG	/var/www/html/gits/colorpicker/js/jquery.js	/^		Expr.find.TAG = function(match, context){$/;"	function	line:2171
+href	/var/www/html/gits/colorpicker/js/jquery.js	/^		Expr.attrHandle.href = function(elem){$/;"	function	line:2195
+Sizzle	/var/www/html/gits/colorpicker/js/jquery.js	/^	Sizzle = function(query, context, extra, seed){$/;"	function	line:2211
+CLASS	/var/www/html/gits/colorpicker/js/jquery.js	/^	Expr.find.CLASS = function(match, context, isXML) {$/;"	function	line:2246
+dirNodeCheck	/var/www/html/gits/colorpicker/js/jquery.js	/^function dirNodeCheck( dir, cur, doneName, checkSet, nodeCheck, isXML ) {$/;"	function	line:2253
+dirCheck	/var/www/html/gits/colorpicker/js/jquery.js	/^function dirCheck( dir, cur, doneName, checkSet, nodeCheck, isXML ) {$/;"	function	line:2289
+isXML	/var/www/html/gits/colorpicker/js/jquery.js	/^var isXML = function(elem){$/;"	function	line:2338
+posProcess	/var/www/html/gits/colorpicker/js/jquery.js	/^var posProcess = function(selector, context){$/;"	function	line:2343
+hidden	/var/www/html/gits/colorpicker/js/jquery.js	/^Sizzle.selectors.filters.hidden = function(elem){$/;"	function	line:2369
+visible	/var/www/html/gits/colorpicker/js/jquery.js	/^Sizzle.selectors.filters.visible = function(elem){$/;"	function	line:2373
+animated	/var/www/html/gits/colorpicker/js/jquery.js	/^Sizzle.selectors.filters.animated = function(elem){$/;"	function	line:2377
+multiFilter	/var/www/html/gits/colorpicker/js/jquery.js	/^jQuery.multiFilter = function( expr, elems, not ) {$/;"	function	line:2383
+dir	/var/www/html/gits/colorpicker/js/jquery.js	/^jQuery.dir = function( elem, dir ){$/;"	function	line:2391
+nth	/var/www/html/gits/colorpicker/js/jquery.js	/^jQuery.nth = function(cur, result, dir, elem){$/;"	function	line:2401
+sibling	/var/www/html/gits/colorpicker/js/jquery.js	/^jQuery.sibling = function(n, elem){$/;"	function	line:2412
+add	/var/www/html/gits/colorpicker/js/jquery.js	/^	add: function(elem, types, handler, data) {$/;"	function	line:2437
+remove	/var/www/html/gits/colorpicker/js/jquery.js	/^	remove: function(elem, types, handler) {$/;"	function	line:2521
+trigger	/var/www/html/gits/colorpicker/js/jquery.js	/^	trigger: function( event, data, elem, bubbling ) {$/;"	function	line:2591
+handle	/var/www/html/gits/colorpicker/js/jquery.js	/^	handle: function(event) {$/;"	function	line:2665
+fix	/var/www/html/gits/colorpicker/js/jquery.js	/^	fix: function(event) {$/;"	function	line:2712
+proxy	/var/www/html/gits/colorpicker/js/jquery.js	/^	proxy: function( fn, proxy ){$/;"	function	line:2761
+teardown	/var/www/html/gits/colorpicker/js/jquery.js	/^			teardown: function() {}$/;"	function	line:2773
+setup	/var/www/html/gits/colorpicker/js/jquery.js	/^			setup: function( selector, namespaces ){$/;"	function	line:2779
+teardown	/var/www/html/gits/colorpicker/js/jquery.js	/^			teardown:  function( namespaces ){$/;"	function	line:2782
+Event	/var/www/html/gits/colorpicker/js/jquery.js	/^jQuery.Event = function( src ){$/;"	function	line:2799
+returnFalse	/var/www/html/gits/colorpicker/js/jquery.js	/^function returnFalse(){$/;"	function	line:2820
+returnTrue	/var/www/html/gits/colorpicker/js/jquery.js	/^function returnTrue(){$/;"	function	line:2823
+preventDefault	/var/www/html/gits/colorpicker/js/jquery.js	/^	preventDefault: function() {$/;"	function	line:2830
+stopPropagation	/var/www/html/gits/colorpicker/js/jquery.js	/^	stopPropagation: function() {$/;"	function	line:2842
+stopImmediatePropagation	/var/www/html/gits/colorpicker/js/jquery.js	/^	stopImmediatePropagation:function(){$/;"	function	line:2854
+withinElement	/var/www/html/gits/colorpicker/js/jquery.js	/^var withinElement = function(event) {$/;"	function	line:2864
+catch	/var/www/html/gits/colorpicker/js/jquery.js	/^		catch(e) { parent = this; }$/;"	function	line:2870
+setup	/var/www/html/gits/colorpicker/js/jquery.js	/^		setup: function(){$/;"	function	line:2885
+teardown	/var/www/html/gits/colorpicker/js/jquery.js	/^		teardown: function(){$/;"	function	line:2888
+bind	/var/www/html/gits/colorpicker/js/jquery.js	/^	bind: function( type, data, fn ) {$/;"	function	line:2895
+one	/var/www/html/gits/colorpicker/js/jquery.js	/^	one: function( type, data, fn ) {$/;"	function	line:2901
+unbind	/var/www/html/gits/colorpicker/js/jquery.js	/^	unbind: function( type, fn ) {$/;"	function	line:2911
+trigger	/var/www/html/gits/colorpicker/js/jquery.js	/^	trigger: function( type, data ) {$/;"	function	line:2917
+triggerHandler	/var/www/html/gits/colorpicker/js/jquery.js	/^	triggerHandler: function( type, data ) {$/;"	function	line:2923
+toggle	/var/www/html/gits/colorpicker/js/jquery.js	/^	toggle: function( fn ) {$/;"	function	line:2933
+hover	/var/www/html/gits/colorpicker/js/jquery.js	/^	hover: function(fnOver, fnOut) {$/;"	function	line:2953
+ready	/var/www/html/gits/colorpicker/js/jquery.js	/^	ready: function(fn) {$/;"	function	line:2957
+live	/var/www/html/gits/colorpicker/js/jquery.js	/^	live: function( type, fn ){$/;"	function	line:2974
+die	/var/www/html/gits/colorpicker/js/jquery.js	/^	die: function( type, fn ){$/;"	function	line:2983
+liveHandler	/var/www/html/gits/colorpicker/js/jquery.js	/^function liveHandler( event ){$/;"	function	line:2989
+liveConvert	/var/www/html/gits/colorpicker/js/jquery.js	/^function liveConvert(type, selector){$/;"	function	line:3014
+ready	/var/www/html/gits/colorpicker/js/jquery.js	/^	ready: function() {$/;"	function	line:3022
+bindReady	/var/www/html/gits/colorpicker/js/jquery.js	/^function bindReady(){$/;"	function	line:3047
+jQuery	/var/www/html/gits/colorpicker/js/jquery.js	/^	jQuery(function(){$/;"	function	line:3200
+load	/var/www/html/gits/colorpicker/js/jquery.js	/^	load: function( url, params, callback ) {$/;"	function	line:3228
+complete	/var/www/html/gits/colorpicker/js/jquery.js	/^			complete: function(res, status){$/;"	function	line:3263
+serialize	/var/www/html/gits/colorpicker/js/jquery.js	/^	serialize: function() {$/;"	function	line:3287
+serializeArray	/var/www/html/gits/colorpicker/js/jquery.js	/^	serializeArray: function() {$/;"	function	line:3290
+get	/var/www/html/gits/colorpicker/js/jquery.js	/^	get: function( url, data, callback, type ) {$/;"	function	line:3322
+getScript	/var/www/html/gits/colorpicker/js/jquery.js	/^	getScript: function( url, callback ) {$/;"	function	line:3338
+getJSON	/var/www/html/gits/colorpicker/js/jquery.js	/^	getJSON: function( url, data, callback ) {$/;"	function	line:3342
+post	/var/www/html/gits/colorpicker/js/jquery.js	/^	post: function( url, data, callback, type ) {$/;"	function	line:3346
+ajaxSetup	/var/www/html/gits/colorpicker/js/jquery.js	/^	ajaxSetup: function( settings ) {$/;"	function	line:3361
+xhr	/var/www/html/gits/colorpicker/js/jquery.js	/^		xhr:function(){$/;"	function	line:3381
+ajax	/var/www/html/gits/colorpicker/js/jquery.js	/^	ajax: function( s ) {$/;"	function	line:3397
+onreadystatechange	/var/www/html/gits/colorpicker/js/jquery.js	/^		var onreadystatechange = function(isTimeout){$/;"	function	line:3553
+setTimeout	/var/www/html/gits/colorpicker/js/jquery.js	/^				setTimeout(function(){$/;"	function	line:3624
+success	/var/www/html/gits/colorpicker/js/jquery.js	/^		function success(){$/;"	function	line:3642
+complete	/var/www/html/gits/colorpicker/js/jquery.js	/^		function complete(){$/;"	function	line:3652
+handleError	/var/www/html/gits/colorpicker/js/jquery.js	/^	handleError: function( s, xhr, status, e ) {$/;"	function	line:3670
+httpSuccess	/var/www/html/gits/colorpicker/js/jquery.js	/^	httpSuccess: function( xhr ) {$/;"	function	line:3683
+httpNotModified	/var/www/html/gits/colorpicker/js/jquery.js	/^	httpNotModified: function( xhr, url ) {$/;"	function	line:3693
+httpData	/var/www/html/gits/colorpicker/js/jquery.js	/^	httpData: function( xhr, type, s ) {$/;"	function	line:3703
+param	/var/www/html/gits/colorpicker/js/jquery.js	/^	param: function( a ) {$/;"	function	line:3733
+add	/var/www/html/gits/colorpicker/js/jquery.js	/^		function add( key, value ){$/;"	function	line:3736
+genFx	/var/www/html/gits/colorpicker/js/jquery.js	/^function genFx( type, num ){$/;"	function	line:3776
+show	/var/www/html/gits/colorpicker/js/jquery.js	/^	show: function(speed,callback){$/;"	function	line:3785
+hide	/var/www/html/gits/colorpicker/js/jquery.js	/^	hide: function(speed,callback){$/;"	function	line:3825
+toggle	/var/www/html/gits/colorpicker/js/jquery.js	/^	toggle: function( fn, fn2 ){$/;"	function	line:3848
+fadeTo	/var/www/html/gits/colorpicker/js/jquery.js	/^	fadeTo: function(speed,to,callback){$/;"	function	line:3861
+animate	/var/www/html/gits/colorpicker/js/jquery.js	/^	animate: function( prop, speed, easing, callback ) {$/;"	function	line:3865
+stop	/var/www/html/gits/colorpicker/js/jquery.js	/^	stop: function(clearQueue, gotoEnd){$/;"	function	line:3927
+speed	/var/www/html/gits/colorpicker/js/jquery.js	/^	speed: function(speed, easing, fn) {$/;"	function	line:3968
+complete	/var/www/html/gits/colorpicker/js/jquery.js	/^		opt.complete = function(){$/;"	function	line:3981
+linear	/var/www/html/gits/colorpicker/js/jquery.js	/^		linear: function( p, n, firstNum, diff ) {$/;"	function	line:3992
+swing	/var/www/html/gits/colorpicker/js/jquery.js	/^		swing: function( p, n, firstNum, diff ) {$/;"	function	line:3995
+fx	/var/www/html/gits/colorpicker/js/jquery.js	/^	fx: function( elem, options, prop ){$/;"	function	line:4002
+update	/var/www/html/gits/colorpicker/js/jquery.js	/^	update: function(){$/;"	function	line:4016
+cur	/var/www/html/gits/colorpicker/js/jquery.js	/^	cur: function(force){$/;"	function	line:4028
+custom	/var/www/html/gits/colorpicker/js/jquery.js	/^	custom: function(from, to, unit){$/;"	function	line:4037
+t	/var/www/html/gits/colorpicker/js/jquery.js	/^		function t(gotoEnd){$/;"	function	line:4046
+show	/var/www/html/gits/colorpicker/js/jquery.js	/^	show: function(){$/;"	function	line:4069
+hide	/var/www/html/gits/colorpicker/js/jquery.js	/^	hide: function(){$/;"	function	line:4084
+step	/var/www/html/gits/colorpicker/js/jquery.js	/^	step: function(gotoEnd){$/;"	function	line:4094
+opacity	/var/www/html/gits/colorpicker/js/jquery.js	/^		opacity: function(fx){$/;"	function	line:4160
+_default	/var/www/html/gits/colorpicker/js/jquery.js	/^		_default: function(fx){$/;"	function	line:4164
+offset	/var/www/html/gits/colorpicker/js/jquery.js	/^	jQuery.fn.offset = function() {$/;"	function	line:4173
+offset	/var/www/html/gits/colorpicker/js/jquery.js	/^	jQuery.fn.offset = function() {$/;"	function	line:4183
+initialize	/var/www/html/gits/colorpicker/js/jquery.js	/^	initialize: function() {$/;"	function	line:4222
+bodyOffset	/var/www/html/gits/colorpicker/js/jquery.js	/^	bodyOffset: function(body) {$/;"	function	line:4248
+position	/var/www/html/gits/colorpicker/js/jquery.js	/^	position: function() {$/;"	function	line:4260
+offsetParent	/var/www/html/gits/colorpicker/js/jquery.js	/^	offsetParent: function() {$/;"	function	line:4291
+getPosition	/var/www/html/gits/colorpicker/js/utils.js	/^	getPosition : function(e, forceIt)$/;"	function	line:9
+getSize	/var/www/html/gits/colorpicker/js/utils.js	/^	getSize : function(e)$/;"	function	line:60
+getClient	/var/www/html/gits/colorpicker/js/utils.js	/^	getClient : function(e)$/;"	function	line:84
+getScroll	/var/www/html/gits/colorpicker/js/utils.js	/^	getScroll : function (e)$/;"	function	line:97
+getMargins	/var/www/html/gits/colorpicker/js/utils.js	/^	getMargins : function(e, toInteger)$/;"	function	line:126
+getPadding	/var/www/html/gits/colorpicker/js/utils.js	/^	getPadding : function(e, toInteger)$/;"	function	line:142
+getBorder	/var/www/html/gits/colorpicker/js/utils.js	/^	getBorder : function(e, toInteger)$/;"	function	line:158
+traverseDOM	/var/www/html/gits/colorpicker/js/utils.js	/^	traverseDOM : function(nodeEl, func)$/;"	function	line:174
+getInnerWidth	/var/www/html/gits/colorpicker/js/utils.js	/^	getInnerWidth :  function(el, scroll) {$/;"	function	line:183
+getInnerHeight	/var/www/html/gits/colorpicker/js/utils.js	/^	getInnerHeight : function(el, scroll) {$/;"	function	line:187
+getExtraWidth	/var/www/html/gits/colorpicker/js/utils.js	/^	getExtraWidth : function(el) {$/;"	function	line:191
+getExtraHeight	/var/www/html/gits/colorpicker/js/utils.js	/^	getExtraHeight : function(el) {$/;"	function	line:199
+isChildOf	/var/www/html/gits/colorpicker/js/utils.js	/^	isChildOf: function(parentEl, el, container) {$/;"	function	line:207
+centerEl	/var/www/html/gits/colorpicker/js/utils.js	/^	centerEl : function(el, axis)$/;"	function	line:228
+easeout	/var/www/html/gits/colorpicker/js/utils.js	/^	$.easing.easeout = function(p, n, firstNum, delta, duration) {$/;"	function	line:247
+$.easing.easeout	/var/www/html/gits/colorpicker/js/utils.js	/^if (!$.easing.easeout) {$/;"	function	line:246
+var._registered.init	/var/www/html/gits/colorpicker/js/eye.js	/^		var _registered = {$/;"	property	line:9
+init	/var/www/html/gits/colorpicker/js/eye.js	/^			init: function() {$/;"	function	line:13
+extend	/var/www/html/gits/colorpicker/js/eye.js	/^			extend: function(prop) {$/;"	function	line:18
+register	/var/www/html/gits/colorpicker/js/eye.js	/^			register: function(fn, type) {$/;"	function	line:25
+initLayout	/var/www/html/gits/colorpicker/js/layout.js	/^	var initLayout = function() {$/;"	function	line:2
+onSubmit	/var/www/html/gits/colorpicker/js/layout.js	/^			onSubmit: function(hsb, hex, rgb) {$/;"	function	line:15
+onSubmit	/var/www/html/gits/colorpicker/js/layout.js	/^			onSubmit: function(hsb, hex, rgb, el) {$/;"	function	line:26
+onBeforeShow	/var/www/html/gits/colorpicker/js/layout.js	/^			onBeforeShow: function () {$/;"	function	line:30
+onShow	/var/www/html/gits/colorpicker/js/layout.js	/^			onShow: function (colpkr) {$/;"	function	line:39
+onHide	/var/www/html/gits/colorpicker/js/layout.js	/^			onHide: function (colpkr) {$/;"	function	line:43
+onChange	/var/www/html/gits/colorpicker/js/layout.js	/^			onChange: function (hsb, hex, rgb) {$/;"	function	line:47
+showTab	/var/www/html/gits/colorpicker/js/layout.js	/^	var showTab = function(e) {$/;"	function	line:53
+showTab	/var/www/html/gits/colorpicker/js/layout.js	/^	var showTab = function(e) {$/;"	function	line:53
+ColorPicker	/var/www/html/gits/colorpicker/js/colorpicker.js	/^	var ColorPicker = function () {$/;"	function	line:10
+onShow	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				onShow: function () {},$/;"	function	line:19
+onBeforeShow	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				onBeforeShow: function(){},$/;"	function	line:20
+onHide	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				onHide: function () {},$/;"	function	line:21
+onChange	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				onChange: function () {},$/;"	function	line:22
+onSubmit	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				onSubmit: function () {},$/;"	function	line:23
+fillRGBFields	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			fillRGBFields = function  (hsb, cal) {$/;"	function	line:28
+fillHSBFields	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			fillHSBFields = function  (hsb, cal) {$/;"	function	line:35
+fillHexFields	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			fillHexFields = function (hsb, cal) {$/;"	function	line:41
+setSelector	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			setSelector = function (hsb, cal) {$/;"	function	line:45
+setHue	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			setHue = function (hsb, cal) {$/;"	function	line:52
+setCurrentColor	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			setCurrentColor = function (hsb, cal) {$/;"	function	line:55
+setNewColor	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			setNewColor = function (hsb, cal) {$/;"	function	line:58
+keyDown	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			keyDown = function (ev) {$/;"	function	line:61
+change	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			change = function (ev) {$/;"	function	line:71
+blur	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			blur = function (ev) {$/;"	function	line:98
+focus	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			focus = function () {$/;"	function	line:102
+downIncrement	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			downIncrement = function (ev) {$/;"	function	line:107
+current.el	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				var current = {$/;"	property	line:109
+moveIncrement	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			moveIncrement = function (ev) {$/;"	function	line:120
+upIncrement	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			upIncrement = function (ev) {$/;"	function	line:127
+downHue	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			downHue = function (ev) {$/;"	function	line:134
+current.cal	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				var current = {$/;"	property	line:135
+moveHue	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			moveHue = function (ev) {$/;"	function	line:143
+upHue	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			upHue = function (ev) {$/;"	function	line:154
+downSelector	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			downSelector = function (ev) {$/;"	function	line:161
+current.cal	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				var current = {$/;"	property	line:162
+moveSelector	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			moveSelector = function (ev) {$/;"	function	line:170
+upSelector	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			upSelector = function (ev) {$/;"	function	line:184
+enterSubmit	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			enterSubmit = function (ev) {$/;"	function	line:191
+leaveSubmit	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			leaveSubmit = function (ev) {$/;"	function	line:194
+clickSubmit	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			clickSubmit = function (ev) {$/;"	function	line:197
+show	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			show = function (ev) {$/;"	function	line:204
+hide	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			hide = function (ev) {$/;"	function	line:224
+isChildOf	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			isChildOf = function(parentEl, el, container) {$/;"	function	line:232
+getViewport	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			getViewport = function () {$/;"	function	line:250
+fixHSB	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			fixHSB = function (hsb) {$/;"	function	line:259
+fixRGB	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			fixRGB = function (rgb) {$/;"	function	line:266
+fixHex	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			fixHex = function (hex) {$/;"	function	line:273
+HexToRGB	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			HexToRGB = function (hex) {$/;"	function	line:285
+HexToHSB	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			HexToHSB = function (hex) {$/;"	function	line:289
+RGBToHSB	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			RGBToHSB = function (rgb) {$/;"	function	line:292
+hsb.h	/var/www/html/gits/colorpicker/js/colorpicker.js	/^				var hsb = {$/;"	property	line:293
+hsb.s	/var/www/html/gits/colorpicker/js/colorpicker.js	/^					h: 0,$/;"	property	line:294
+hsb.b	/var/www/html/gits/colorpicker/js/colorpicker.js	/^					s: 0,$/;"	property	line:295
+HSBToRGB	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			HSBToRGB = function (hsb) {$/;"	function	line:325
+RGBToHex	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			RGBToHex = function (rgb) {$/;"	function	line:347
+HSBToHex	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			HSBToHex = function (hsb) {$/;"	function	line:360
+restoreOriginal	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			restoreOriginal = function () {$/;"	function	line:363
+init	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			init: function (opt) {$/;"	function	line:375
+showPicker	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			showPicker: function() {$/;"	function	line:437
+hidePicker	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			hidePicker: function() {$/;"	function	line:444
+setColor	/var/www/html/gits/colorpicker/js/colorpicker.js	/^			setColor: function(col) {$/;"	function	line:451
+.colorpicker	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker {$/;"	function	line:1
+.colorpicker_color	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_color {$/;"	function	line:10
+.colorpicker_color div	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_color div {$/;"	function	line:20
+.colorpicker_color div div	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_color div div {$/;"	function	line:28
+.colorpicker_hue	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_hue {$/;"	function	line:38
+.colorpicker_hue div	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_hue div {$/;"	function	line:46
+.colorpicker_new_color	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_new_color {$/;"	function	line:55
+.colorpicker_current_color	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_current_color {$/;"	function	line:63
+.colorpicker input	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker input {$/;"	function	line:71
+.colorpicker_hex	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_hex {$/;"	function	line:85
+.colorpicker_hex input	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_hex input {$/;"	function	line:93
+.colorpicker_field	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_field {$/;"	function	line:96
+.colorpicker_field span	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_field span {$/;"	function	line:102
+.colorpicker_rgb_r	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_rgb_r {$/;"	function	line:111
+.colorpicker_rgb_g	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_rgb_g {$/;"	function	line:116
+.colorpicker_rgb_b	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_rgb_b {$/;"	function	line:121
+.colorpicker_hsb_h	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_hsb_h {$/;"	function	line:126
+.colorpicker_hsb_s	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_hsb_s {$/;"	function	line:131
+.colorpicker_hsb_b	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_hsb_b {$/;"	function	line:136
+.colorpicker_submit	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_submit {$/;"	function	line:141
+.colorpicker_focus	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_focus {$/;"	function	line:150
+.colorpicker_hex.colorpicker_focus	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_hex.colorpicker_focus {$/;"	function	line:153
+.colorpicker_submit.colorpicker_focus	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_submit.colorpicker_focus {$/;"	function	line:156
+.colorpicker_slider	/var/www/html/gits/colorpicker/css/colorpicker.css	/^.colorpicker_slider {$/;"	function	line:159
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td	/var/www/html/gits/colorpicker/css/layout.css	/^body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { $/;"	function	line:1
+table	/var/www/html/gits/colorpicker/css/layout.css	/^table {$/;"	function	line:5
+fieldset,img	/var/www/html/gits/colorpicker/css/layout.css	/^fieldset,img { $/;"	function	line:9
+address,caption,cite,code,dfn,em,strong,th,var	/var/www/html/gits/colorpicker/css/layout.css	/^address,caption,cite,code,dfn,em,strong,th,var {$/;"	function	line:12
+ol,ul	/var/www/html/gits/colorpicker/css/layout.css	/^ol,ul {$/;"	function	line:16
+caption,th	/var/www/html/gits/colorpicker/css/layout.css	/^caption,th {$/;"	function	line:19
+h1,h2,h3,h4,h5,h6	/var/www/html/gits/colorpicker/css/layout.css	/^h1,h2,h3,h4,h5,h6 {$/;"	function	line:22
+q:before,q:after	/var/www/html/gits/colorpicker/css/layout.css	/^q:before,q:after {$/;"	function	line:26
+abbr,acronym	/var/www/html/gits/colorpicker/css/layout.css	/^abbr,acronym { border:0;$/;"	function	line:29
+html, body	/var/www/html/gits/colorpicker/css/layout.css	/^html, body {$/;"	function	line:31
+body	/var/www/html/gits/colorpicker/css/layout.css	/^body {$/;"	function	line:38
+.wrapper	/var/www/html/gits/colorpicker/css/layout.css	/^.wrapper {$/;"	function	line:42
+h1	/var/www/html/gits/colorpicker/css/layout.css	/^h1 {$/;"	function	line:47
+.navigationTabs	/var/www/html/gits/colorpicker/css/layout.css	/^.navigationTabs {$/;"	function	line:53
+.navigationTabs li	/var/www/html/gits/colorpicker/css/layout.css	/^.navigationTabs li {$/;"	function	line:58
+.navigationTabs li a	/var/www/html/gits/colorpicker/css/layout.css	/^.navigationTabs li a{$/;"	function	line:64
+.navigationTabs li a:hover	/var/www/html/gits/colorpicker/css/layout.css	/^.navigationTabs li a:hover {$/;"	function	line:76
+.navigationTabs li a.active	/var/www/html/gits/colorpicker/css/layout.css	/^.navigationTabs li a.active {$/;"	function	line:79
+.tabsContent	/var/www/html/gits/colorpicker/css/layout.css	/^.tabsContent {$/;"	function	line:84
+.tab	/var/www/html/gits/colorpicker/css/layout.css	/^.tab {$/;"	function	line:90
+.tab h2	/var/www/html/gits/colorpicker/css/layout.css	/^.tab h2 {$/;"	function	line:94
+.tab h3	/var/www/html/gits/colorpicker/css/layout.css	/^.tab h3 {$/;"	function	line:98
+.tab p	/var/www/html/gits/colorpicker/css/layout.css	/^.tab p {$/;"	function	line:103
+.tab ul	/var/www/html/gits/colorpicker/css/layout.css	/^.tab ul {$/;"	function	line:107
+.tab li	/var/www/html/gits/colorpicker/css/layout.css	/^.tab li {$/;"	function	line:111
+.tab a	/var/www/html/gits/colorpicker/css/layout.css	/^.tab a {$/;"	function	line:114
+.tab strong	/var/www/html/gits/colorpicker/css/layout.css	/^.tab strong {$/;"	function	line:117
+.tab pre	/var/www/html/gits/colorpicker/css/layout.css	/^.tab pre {$/;"	function	line:120
+.tab table	/var/www/html/gits/colorpicker/css/layout.css	/^.tab table {$/;"	function	line:127
+.tab table td	/var/www/html/gits/colorpicker/css/layout.css	/^.tab table td {$/;"	function	line:130
+.tab dt	/var/www/html/gits/colorpicker/css/layout.css	/^.tab dt {$/;"	function	line:134
+#colorSelector	/var/www/html/gits/colorpicker/css/layout.css	/^#colorSelector {$/;"	function	line:138
+#colorSelector div	/var/www/html/gits/colorpicker/css/layout.css	/^#colorSelector div {$/;"	function	line:144
+#colorSelector2	/var/www/html/gits/colorpicker/css/layout.css	/^#colorSelector2 {$/;"	function	line:152
+#colorSelector2 div	/var/www/html/gits/colorpicker/css/layout.css	/^#colorSelector2 div {$/;"	function	line:160
+#colorpickerHolder2	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 {$/;"	function	line:168
+#colorpickerHolder2 .colorpicker	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker {$/;"	function	line:176
+#colorpickerHolder2 .colorpicker_hue div	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_hue div {$/;"	function	line:182
+#colorpickerHolder2 .colorpicker_hex	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_hex {$/;"	function	line:185
+#colorpickerHolder2 .colorpicker_rgb_r	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_rgb_r {$/;"	function	line:188
+#colorpickerHolder2 .colorpicker_rgb_g	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_rgb_g {$/;"	function	line:191
+#colorpickerHolder2 .colorpicker_rgb_b	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_rgb_b {$/;"	function	line:194
+#colorpickerHolder2 .colorpicker_hsb_s	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_hsb_s {$/;"	function	line:197
+#colorpickerHolder2 .colorpicker_hsb_h	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_hsb_h {$/;"	function	line:201
+#colorpickerHolder2 .colorpicker_hsb_b	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_hsb_b {$/;"	function	line:205
+#colorpickerHolder2 .colorpicker_submit	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker_submit {$/;"	function	line:209
+#colorpickerHolder2 .colorpicker input	/var/www/html/gits/colorpicker/css/layout.css	/^#colorpickerHolder2 .colorpicker input {$/;"	function	line:212
+#customWidget	/var/www/html/gits/colorpicker/css/layout.css	/^#customWidget {$/;"	function	line:215
+html	/var/www/html/gits/colorpicker/index.html	/^<html xmlns="http:\/\/www.w3.org\/1999\/xhtml" xml:lang="en" lang="en">$/;"	function	line:2
+head	/var/www/html/gits/colorpicker/index.html	/^<head>$/;"	function	line:3
+link	/var/www/html/gits/colorpicker/index.html	/^	<link rel="stylesheet" href="css\/colorpicker.css" type="text\/css" \/>$/;"	function	line:4
+link	/var/www/html/gits/colorpicker/index.html	/^    <link rel="stylesheet" media="screen" type="text\/css" href="css\/layout.css" \/>$/;"	function	line:5
+title	/var/www/html/gits/colorpicker/index.html	/^    <title>ColorPicker - jQuery plugin<\/title>$/;"	function	line:6
+script	/var/www/html/gits/colorpicker/index.html	/^	<script type="text\/javascript" src="js\/jquery.js"><\/script>$/;"	function	line:7
+script	/var/www/html/gits/colorpicker/index.html	/^	<script type="text\/javascript" src="js\/colorpicker.js"><\/script>$/;"	function	line:8
+script	/var/www/html/gits/colorpicker/index.html	/^    <script type="text\/javascript" src="js\/eye.js"><\/script>$/;"	function	line:9
+script	/var/www/html/gits/colorpicker/index.html	/^    <script type="text\/javascript" src="js\/utils.js"><\/script>$/;"	function	line:10
+script	/var/www/html/gits/colorpicker/index.html	/^    <script type="text\/javascript" src="js\/layout.js?ver=1.0.2"><\/script>$/;"	function	line:11
+body	/var/www/html/gits/colorpicker/index.html	/^<body>$/;"	function	line:13
+div	/var/www/html/gits/colorpicker/index.html	/^    <div class="wrapper">$/;"	function	line:14
+h	/var/www/html/gits/colorpicker/index.html	/^        <h1>Color Picker - jQuery plugin<\/h1>$/;"	function	line:15
+ul	/var/www/html/gits/colorpicker/index.html	/^        <ul class="navigationTabs">$/;"	function	line:16
+li	/var/www/html/gits/colorpicker/index.html	/^            <li><a href="#about" rel="about">About<\/a><\/li>$/;"	function	line:17
+li	/var/www/html/gits/colorpicker/index.html	/^            <li><a href="#download" rel="download">Download<\/a><\/li>$/;"	function	line:18
+li	/var/www/html/gits/colorpicker/index.html	/^            <li><a href="#implement" rel="implement">Implement<\/a><\/li>$/;"	function	line:19
+div	/var/www/html/gits/colorpicker/index.html	/^        <div class="tabsContent">$/;"	function	line:21
+div	/var/www/html/gits/colorpicker/index.html	/^            <div class="tab">$/;"	function	line:22
+h	/var/www/html/gits/colorpicker/index.html	/^                <h2>About<\/h2>$/;"	function	line:23
+p	/var/www/html/gits/colorpicker/index.html	/^                <p>A simple component to select color in the same way you select color in Adobe Photoshop<\/p>$/;"	function	line:24
+h	/var/www/html/gits/colorpicker/index.html	/^				<h3>Last update<\/h3>$/;"	function	line:25
+p	/var/www/html/gits/colorpicker/index.html	/^				<p>23.05.2009 - Check Download tab<\/p>$/;"	function	line:26
+h	/var/www/html/gits/colorpicker/index.html	/^                <h3>Features<\/h3>$/;"	function	line:27
+ul	/var/www/html/gits/colorpicker/index.html	/^                <ul>$/;"	function	line:28
+li	/var/www/html/gits/colorpicker/index.html	/^                    <li>Flat mode - as element in page<\/li>$/;"	function	line:29
+li	/var/www/html/gits/colorpicker/index.html	/^                    <li>Powerful controls for color selection<\/li>$/;"	function	line:30
+li	/var/www/html/gits/colorpicker/index.html	/^					<li>Easy to customize the look by changing some images<\/li>$/;"	function	line:31
+li	/var/www/html/gits/colorpicker/index.html	/^					<li>Fits into the viewport<\/li>$/;"	function	line:32
+h	/var/www/html/gits/colorpicker/index.html	/^				<h3>License<\/h3>$/;"	function	line:34
+p	/var/www/html/gits/colorpicker/index.html	/^				<p>Dual licensed under the MIT and GPL licenses.<\/p>$/;"	function	line:35
+h	/var/www/html/gits/colorpicker/index.html	/^                <h3>Examples<\/h3>$/;"	function	line:36
+p	/var/www/html/gits/colorpicker/index.html	/^                <p>Flat mode.<\/p>$/;"	function	line:37
+p	/var/www/html/gits/colorpicker/index.html	/^                <p id="colorpickerHolder">$/;"	function	line:38
+pre	/var/www/html/gits/colorpicker/index.html	/^                <pre>$/;"	function	line:40
+p	/var/www/html/gits/colorpicker/index.html	/^                <p>Custom skin and using flat mode to display the color picker in a custom widget.<\/p>$/;"	function	line:43
+div	/var/www/html/gits/colorpicker/index.html	/^				<div id="customWidget">$/;"	function	line:44
+div	/var/www/html/gits/colorpicker/index.html	/^					<div id="colorSelector2"><div style="background-color: #00ff00"><\/div><\/div>$/;"	function	line:45
+div	/var/www/html/gits/colorpicker/index.html	/^	                <div id="colorpickerHolder2">$/;"	function	line:46
+p	/var/www/html/gits/colorpicker/index.html	/^				<p>Attached to an text field and using callback functions to update the color with field's value and set the value back in the field by submiting the color.<\/p>$/;"	function	line:50
+p	/var/www/html/gits/colorpicker/index.html	/^				<p><input type="text" maxlength="6" size="6" id="colorpickerField1" value="00ff00" \/><\/p>$/;"	function	line:51
+p	/var/www/html/gits/colorpicker/index.html	/^				<p><input type="text" maxlength="6" size="6" id="colorpickerField3" value="0000ff" \/><\/p>$/;"	function	line:52
+p	/var/www/html/gits/colorpicker/index.html	/^				<p><input type="text" maxlength="6" size="6" id="colorpickerField2" value="ff0000" \/><\/p>$/;"	function	line:53
+pre	/var/www/html/gits/colorpicker/index.html	/^				<pre>$('#colorpickerField1, #colorpickerField2, #colorpickerField3').ColorPicker({$/;"	function	line:54
+p	/var/www/html/gits/colorpicker/index.html	/^				<p>Attached to DOMElement and using callbacks to live preview the color and adding animation.<\/p>$/;"	function	line:67
+p	/var/www/html/gits/colorpicker/index.html	/^				<p>$/;"	function	line:68
+div	/var/www/html/gits/colorpicker/index.html	/^					<div id="colorSelector"><div style="background-color: #0000ff"><\/div><\/div>$/;"	function	line:69
+pre	/var/www/html/gits/colorpicker/index.html	/^				<pre>$/;"	function	line:71
+div	/var/www/html/gits/colorpicker/index.html	/^            <div class="tab">$/;"	function	line:88
+h	/var/www/html/gits/colorpicker/index.html	/^                <h2>Download<\/h2>$/;"	function	line:89
+p	/var/www/html/gits/colorpicker/index.html	/^                <p><a href="colorpicker.zip">colorpicker.zip (73 kb)<\/a>: jQuery, Javscript files, CSS files, images, examples and instructions.<\/p>$/;"	function	line:90
+h	/var/www/html/gits/colorpicker/index.html	/^                <h3>Changelog<\/h3>$/;"	function	line:91
+dl	/var/www/html/gits/colorpicker/index.html	/^                <dl>$/;"	function	line:92
+dt	/var/www/html/gits/colorpicker/index.html	/^					<dt>23.05.2009<\/dt>$/;"	function	line:93
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Added: close on color selection example<\/dd>$/;"	function	line:94
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Added: restore original color option<\/dd>$/;"	function	line:95
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Changed: color update on key up event<\/dd>$/;"	function	line:96
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Fixed: colorpicker hide and show methods<\/dd>$/;"	function	line:97
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Fixed: reference to options. Multiple fields with colorpickers is possible now.<\/dd>$/;"	function	line:98
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Fixed: RGB to HSB convertion<\/dd>$/;"	function	line:99
+dt	/var/www/html/gits/colorpicker/index.html	/^					<dt>22.08.2008<\/dt>$/;"	function	line:100
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Fixed bug: where some events were not canceled right on Safari<\/dd>$/;"	function	line:101
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Fixed bug: where teh view port was not detected right on Safari<\/dd>$/;"	function	line:102
+dt	/var/www/html/gits/colorpicker/index.html	/^					<dt>16-07-2008<\/dt>$/;"	function	line:103
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Fixed bug where the letter 'F' could not be typed in the Hex field<\/dd>$/;"	function	line:104
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Fixed bug where the changes on Hex field where not parsed<\/dd>$/;"	function	line:105
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Added new option 'livePreview'<\/dd>$/;"	function	line:106
+dt	/var/www/html/gits/colorpicker/index.html	/^					<dt>08-07-2008<\/dt>$/;"	function	line:107
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Fixed typo in the code, both JavaScript and CSS<\/dd>$/;"	function	line:108
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Changed the cursor for some elements<\/dd>$/;"	function	line:109
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>Added new demo explaining how to implement custom skin<\/dd>$/;"	function	line:110
+dt	/var/www/html/gits/colorpicker/index.html	/^					<dt>07.07.2008<\/dt>$/;"	function	line:111
+dd	/var/www/html/gits/colorpicker/index.html	/^					<dd>The first release.<\/dd>$/;"	function	line:112
+div	/var/www/html/gits/colorpicker/index.html	/^            <div class="tab">$/;"	function	line:115
+h	/var/www/html/gits/colorpicker/index.html	/^                <h2>Implement<\/h2>$/;"	function	line:116
+p	/var/www/html/gits/colorpicker/index.html	/^                <p>Attach the Javascript and CSS files to your document. Edit CSS file and fix the paths to  images and change colors to fit your site theme.<\/p>$/;"	function	line:117
+pre	/var/www/html/gits/colorpicker/index.html	/^                <pre>$/;"	function	line:118
+h	/var/www/html/gits/colorpicker/index.html	/^                <h3>Invocation code<\/h3>$/;"	function	line:122
+p	/var/www/html/gits/colorpicker/index.html	/^                <p>All you have to do is to select the elements in a jQuery way and call the plugin.<\/p>$/;"	function	line:123
+pre	/var/www/html/gits/colorpicker/index.html	/^                <pre>$/;"	function	line:124
+h	/var/www/html/gits/colorpicker/index.html	/^                <h3>Options<\/h3>$/;"	function	line:127
+p	/var/www/html/gits/colorpicker/index.html	/^                <p>A hash of parameters. All parameters are optional.<\/p>$/;"	function	line:128
+table	/var/www/html/gits/colorpicker/index.html	/^                <table>$/;"	function	line:129
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:130
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>eventName<\/strong><\/td>$/;"	function	line:131
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>string<\/td>$/;"	function	line:132
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>The desired event to trigger the colorpicker. Default: 'click'<\/td>$/;"	function	line:133
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:135
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>color<\/strong><\/td>$/;"	function	line:136
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>string or hash<\/td>$/;"	function	line:137
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>The default color. String for hex color or hash for RGB and HSB ({r:255, r:0, b:0}) . Default: 'ff0000'<\/td>$/;"	function	line:138
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:140
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>flat<\/strong><\/td>$/;"	function	line:141
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>boolean<\/td>$/;"	function	line:142
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>Whatever if the color picker is appended to the element or triggered by an event. Default false<\/td>$/;"	function	line:143
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:145
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>livePreview<\/strong><\/td>$/;"	function	line:146
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>boolean<\/td>$/;"	function	line:147
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>Whatever if the color values are filled in the fields while changing values on selector or a field. If false it may improve speed. Default true<\/td>$/;"	function	line:148
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:150
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>onShow<\/strong><\/td>$/;"	function	line:151
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>function<\/td>$/;"	function	line:152
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>Callback function triggered when the color picker is shown<\/td>$/;"	function	line:153
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:155
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>onBeforeShow<\/strong><\/td>$/;"	function	line:156
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>function<\/td>$/;"	function	line:157
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>Callback function triggered before the color picker is shown<\/td>$/;"	function	line:158
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:160
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>onHide<\/strong><\/td>$/;"	function	line:161
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>function<\/td>$/;"	function	line:162
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>Callback function triggered when the color picker is hidden<\/td>$/;"	function	line:163
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:165
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>onChange<\/strong><\/td>$/;"	function	line:166
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>function<\/td>$/;"	function	line:167
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>Callback function triggered when the color is changed<\/td>$/;"	function	line:168
+tr	/var/www/html/gits/colorpicker/index.html	/^                	<tr>$/;"	function	line:170
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td><strong>onSubmit<\/strong><\/td>$/;"	function	line:171
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>function<\/td>$/;"	function	line:172
+td	/var/www/html/gits/colorpicker/index.html	/^                		<td>Callback function triggered when the color it is chosen<\/td>$/;"	function	line:173
+h	/var/www/html/gits/colorpicker/index.html	/^                <h3>Set color<\/h3>$/;"	function	line:176
+p	/var/www/html/gits/colorpicker/index.html	/^                <p>If you want to set a new color.<\/p>$/;"	function	line:177
+pre	/var/www/html/gits/colorpicker/index.html	/^                <pre>$('input').ColorPickerSetColor(color);<\/pre>$/;"	function	line:178
+p	/var/www/html/gits/colorpicker/index.html	/^				<p>The 'color' argument is the same format as the option color, string for hex color or hash for RGB and HSB ({r:255, r:0, b:0}).<\/p>$/;"	function	line:179
